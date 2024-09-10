@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header {
+    background-color: #008374;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    padding: 30px 50px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    margin: 15px;
+}
+.inicio {
+    background-color: #23A092;
+    color: white;
+    padding: 30px 70px 0;
+    height: 430px;
+}
+.titulo-inicio{
+    font-size: 50px;
+}
+.texto-inicio{
+    font-size: 40px;
+    width: 70%;
+}
+.caixa{
+    border: 1px solid black;
+    width: 200px;
+    height: 130px;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+h4 {
+    text-align: center;
+}
+. diferente {
+    margin: 80px 200px;
+}
+.plano {
+    background-color: #EDECEC;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px 0px;
+}
+.Linha {
+    height: 20px;
+    width: 300px;
+    margin: 10px 0;
+}
+.clara{
+    background-color: #f6a256;
+}
+.escuro {
+    background-color: #ff912d;
+}
+h3 {
+    font-size: 30px;
+}
+.planos .container {
+    margin: 0 200px;
+}
+.beneficios {
+    font-size: 20px;
+}
+span {
+    color: grey;
+}
